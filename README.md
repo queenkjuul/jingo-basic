@@ -2,7 +2,9 @@
 
 A **git based** _wiki engine_ written for **node.js**, with a decent design, and search capability, modified specifically to ensure compatibility with some of the absolute oldest browsers.
 
-![Screenshot](https://cloud.githubusercontent.com/assets/166692/26024412/f0cb9206-37d0-11e7-9748-8101fc4e662f.png)
+
+![VirtualBox_2K_03_01_2025_04_31_43](https://github.com/user-attachments/assets/91537b76-7588-42d3-a278-118ca8fd53b8)
+![VirtualBox_Windows 3 1_03_01_2025_04_32_13](https://github.com/user-attachments/assets/6dcc80d5-c8e1-460c-81e3-eb1495bca750)
 
 <!-- toc -->
 
